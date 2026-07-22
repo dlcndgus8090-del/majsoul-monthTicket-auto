@@ -38,6 +38,8 @@
 2. GitHub의 `Actions > Workflows`에서 `Run workflow`를 클릭해 수동 실행합니다.
 3. 올바르게 동작하면 브라우저 세션이 서버에 의해 종료됩니다.
 
+
+
 ## 주의
 - GitHub Actions는 서버 상황에 따라 최대 30분까지 지연될 수 있습니다.
 - `token`과 `uid`는 외부에 노출되지 않도록 주의하세요.
@@ -45,3 +47,6 @@
 ## 문의
 - [Discord](https://discord.com/users/245702966085025802)
 - [X](https://x.com/xflVsSnvB6cx8ZM)
+
+
+   260723
